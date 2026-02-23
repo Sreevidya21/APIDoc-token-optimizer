@@ -1,0 +1,6 @@
+org/doc/util/model/ConversionResult$ConversionResultBuilder.class
+org/doc/util/service/PostmanToSwaggerService$RequestEntry.class
+org/doc/util/controller/ApiConverterController.class
+org/doc/util/model/ConversionResult.class
+org/doc/util/UtilApplication.class
+org/doc/util/service/PostmanToSwaggerService.class
